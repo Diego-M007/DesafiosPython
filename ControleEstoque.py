@@ -1,0 +1,6 @@
+estoque = {
+    Chave: Valor,
+}
+
+
+
